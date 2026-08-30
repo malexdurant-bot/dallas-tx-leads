@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:55:39Z",
+  "generated_at": "2026-08-30T22:21:32Z",
   "build_label": "PARTIAL_BUILD",
   "mode": "full_rebuild",
   "county": "Dallas",
@@ -161043,7 +161043,10 @@
       "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600178249"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "ROE JENNIFER"
+      }
     },
     {
       "lead_id": "lead_parcel_28111500020260000",
@@ -191554,7 +191557,10 @@
       "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600178867"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "ROLLINS LISA MICHELLE"
+      }
     },
     {
       "lead_id": "lead_parcel_440070000A0010000",
@@ -301823,7 +301829,10 @@
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600178056"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "GOODVIN TIBERH"
+      }
     },
     {
       "lead_id": "lead_unresolved_202600178162",
@@ -303068,7 +303077,10 @@
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600178896"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "HOMAN KATHERINE VICTORIA"
+      }
     },
     {
       "lead_id": "lead_unresolved_202600179048",
@@ -303186,7 +303198,10 @@
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600179049"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "MELKA DENNIS ZDENEK"
+      }
     },
     {
       "lead_id": "lead_unresolved_202600179136",
@@ -303245,7 +303260,10 @@
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600179136"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "ELLISON MILDRED"
+      }
     },
     {
       "lead_id": "lead_unresolved_202600179137",
@@ -303540,7 +303558,10 @@
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600179256"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "HUNTER EVETTE BRADLEY"
+      }
     },
     {
       "lead_id": "lead_unresolved_202600179322",
@@ -304664,7 +304685,10 @@
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600179746"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "MORRISON JEROLYN"
+      }
     },
     {
       "lead_id": "lead_unresolved_202600179750",
@@ -306552,7 +306576,10 @@
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600180092"
-      ]
+      ],
+      "contact_info": {
+        "executor_name": "ROSALES CECILIA ANGEL"
+      }
     },
     {
       "lead_id": "lead_unresolved_202600180136",
