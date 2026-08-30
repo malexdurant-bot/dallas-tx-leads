@@ -429,6 +429,7 @@
     "primary_parcel_id",
     "display_address",
     "display_owner",
+    "contact_person",
     "display_score",
     "display_tier",
     "display_patterns",
@@ -496,6 +497,13 @@
             return csvEscape(state.payload[col]);
           case "review_flag_count":
             return r.display_lead_status === "REVIEW_REQUIRED" ? 1 : 0;
+          case "contact_person":
+            // Separate from display_owner ON PURPOSE for estate leads:
+            // display_owner is the decedent (correct, left untouched), this
+            // is the living contact (heir/affiant) named in the same
+            // filing -- who a client actually needs to reach. Blank for
+            // every other lead type/pattern (no contact_info attached).
+            return csvEscape((r.contact_info && r.contact_info.executor_name) || "");
           case "first_pattern":
             return csvEscape((r.display_patterns || [])[0] || "");
           case "first_deal_path":
@@ -619,6 +627,7 @@
     "Owner Middle Name",
     "Owner Last Name",
     "Owner Full Name",
+    "Contact Person",
     "Street Address",
     "City",
     "State",
@@ -637,12 +646,22 @@
       const name = splitOwnerName(
         r.display_owner, r.display_owner_type, ownerNameConvention(r.display_patterns)
       );
+      // "Owner Full Name" stays the decedent for estate leads, unchanged --
+      // DealMachine's skip trace is property-record-driven and an
+      // heirship affidavit doesn't re-record the deed, so the property's
+      // owner of record genuinely is still the decedent; swapping this
+      // column wouldn't change who gets traced, just mislabel the field.
+      // "Contact Person" carries the living relative/affiant named in the
+      // same filing (see run_pipeline.py's contact_by_decedent_name) --
+      // blank for every other lead type.
+      const contactPerson = (r.contact_info && r.contact_info.executor_name) || "";
       return [
         csvEscape(r.primary_parcel_id),
         csvEscape(name.first),
         csvEscape(name.middle),
         csvEscape(name.last),
         csvEscape(r.display_owner),
+        csvEscape(contactPerson),
         csvEscape(r.display_address_street),
         csvEscape(r.display_address_city),
         csvEscape(r.display_address_state),
@@ -663,6 +682,7 @@
     "Owner Middle Name",
     "Owner Last Name",
     "Owner Full Name",
+    "Contact Person",
     "County",
     "State",
     "Score",
@@ -673,17 +693,23 @@
   ];
 
   function exportNamesOnlyCsv() {
+    // Most estate leads without a resolved address land in THIS export
+    // (skip-trace's export above requires one) -- exactly where a Contact
+    // Person column matters most, since these decedent rows have no
+    // property address to fall back on for a property-based lookup.
     const rows = applyFilters(state.payload.records).filter((r) => !hasStructuredAddress(r));
     const header = NAMES_ONLY_COLUMNS.join(",");
     const lines = rows.map((r) => {
       const name = splitOwnerName(
         r.display_owner, r.display_owner_type, ownerNameConvention(r.display_patterns)
       );
+      const contactPerson = (r.contact_info && r.contact_info.executor_name) || "";
       return [
         csvEscape(name.first),
         csvEscape(name.middle),
         csvEscape(name.last),
         csvEscape(r.display_owner),
+        csvEscape(contactPerson),
         csvEscape(state.payload.county),
         csvEscape(state.payload.state),
         csvEscape(r.display_score),
