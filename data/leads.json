@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:54:47Z",
+  "generated_at": "2026-08-30T08:57:22Z",
   "build_label": "PARTIAL_BUILD",
   "mode": "full_rebuild",
   "county": "Dallas",
@@ -7,8 +7,8 @@
   "semantic_verdict": "NEEDS_OPERATOR_REVIEW",
   "lead_total": 5975,
   "enrichment_breakdown": {
-    "ENRICHED": 4402,
-    "UNENRICHED": 1573
+    "ENRICHED": 4417,
+    "UNENRICHED": 1558
   },
   "pattern_counts": {
     "estate": 34,
@@ -43196,6 +43196,61 @@
       "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "https://www.dallascounty.org/Assets/uploads/docs/tax/trw/trwfile.749506.zip"
+      ]
+    },
+    {
+      "lead_id": "lead_parcel_00000349546000000",
+      "scored_lead_id": "scored_d79507bd18232253",
+      "primary_parcel_id": "00000349546000000",
+      "display_address": "5514 WENONAH DR, DALLAS, TX",
+      "display_address_street": "5514 WENONAH DR",
+      "display_address_city": "DALLAS",
+      "display_address_state": "TX",
+      "display_address_zip": null,
+      "display_owner": "DUNCAN GREG",
+      "display_owner_type": "INDIVIDUAL",
+      "display_score": 30,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_assessed_value": 3010400.0,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_JUDGMENT_LIEN",
+          "delta": 30
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2020-03-10",
+      "review_flags": [],
+      "enrichment_status": "ENRICHED",
+      "primary_source_urls": [
+        "about:blank/clerk_recordings/202000069100"
       ]
     },
     {
@@ -120552,6 +120607,61 @@
       ]
     },
     {
+      "lead_id": "lead_parcel_00000820913580000",
+      "scored_lead_id": "scored_975e91886575bf49",
+      "primary_parcel_id": "00000820913580000",
+      "display_address": "9430 SOPHORA DR, DALLAS, TX",
+      "display_address_street": "9430 SOPHORA DR",
+      "display_address_city": "DALLAS",
+      "display_address_state": "TX",
+      "display_address_zip": null,
+      "display_owner": "FANNIN TOBY T",
+      "display_owner_type": "INDIVIDUAL",
+      "display_score": 30,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_assessed_value": 267960.0,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_JUDGMENT_LIEN",
+          "delta": 30
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2020-03-11",
+      "review_flags": [],
+      "enrichment_status": "ENRICHED",
+      "primary_source_urls": [
+        "about:blank/clerk_recordings/202000070247"
+      ]
+    },
+    {
       "lead_id": "lead_parcel_00000823161500000",
       "scored_lead_id": "scored_7480cea9e8929aca",
       "primary_parcel_id": "00000823161500000",
@@ -147500,6 +147610,61 @@
       ]
     },
     {
+      "lead_id": "lead_parcel_26354500040240000",
+      "scored_lead_id": "scored_6eda908ab8cbb6ee",
+      "primary_parcel_id": "26354500040240000",
+      "display_address": "317 E VISTA DR, GARLAND, TX",
+      "display_address_street": "317 E VISTA DR",
+      "display_address_city": "GARLAND",
+      "display_address_state": "TX",
+      "display_address_zip": null,
+      "display_owner": "ROSALES ELISEO",
+      "display_owner_type": "INDIVIDUAL",
+      "display_score": 30,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "lien"
+      ],
+      "stack_contrib_patterns": [
+        "lien"
+      ],
+      "display_pattern_set": [
+        "lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_assessed_value": 192860.0,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_JUDGMENT_LIEN",
+          "delta": 30
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2020-03-13",
+      "review_flags": [],
+      "enrichment_status": "ENRICHED",
+      "primary_source_urls": [
+        "about:blank/clerk_recordings/202000073601"
+      ]
+    },
+    {
       "lead_id": "lead_parcel_26355500150240000",
       "scored_lead_id": "scored_0e653909f911196c",
       "primary_parcel_id": "26355500150240000",
@@ -150640,61 +150805,6 @@
       "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "https://www.dallascounty.org/Assets/uploads/docs/tax/trw/trwfile.749506.zip"
-      ]
-    },
-    {
-      "lead_id": "lead_parcel_274061600B0180000",
-      "scored_lead_id": "scored_3e7b523d9c742474",
-      "primary_parcel_id": "274061600B0180000",
-      "display_address": "207 W MILAS LN, GLENN HEIGHTS, TX",
-      "display_address_street": "207 W MILAS LN",
-      "display_address_city": "GLENN HEIGHTS",
-      "display_address_state": "TX",
-      "display_address_zip": null,
-      "display_owner": "FANNIN TOBY T",
-      "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
-      "display_assessed_value": 487020.0,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_JUDGMENT_LIEN",
-          "delta": 30
-        }
-      ],
-      "evidence_ids": [],
-      "primary_event_date": "2020-03-11",
-      "review_flags": [],
-      "enrichment_status": "ENRICHED",
-      "primary_source_urls": [
-        "about:blank/clerk_recordings/202000070247"
       ]
     },
     {
@@ -184687,61 +184797,6 @@
       "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "https://www.dallascounty.org/Assets/uploads/docs/tax/trw/trwfile.749506.zip"
-      ]
-    },
-    {
-      "lead_id": "lead_parcel_44014060190190000",
-      "scored_lead_id": "scored_6628b202db9af37d",
-      "primary_parcel_id": "44014060190190000",
-      "display_address": "6421 FAIRFIELD DR, ROWLETT, TX",
-      "display_address_street": "6421 FAIRFIELD DR",
-      "display_address_city": "ROWLETT",
-      "display_address_state": "TX",
-      "display_address_zip": null,
-      "display_owner": "DUNCAN GREG",
-      "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
-      "display_assessed_value": 504220.0,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_JUDGMENT_LIEN",
-          "delta": 30
-        }
-      ],
-      "evidence_ids": [],
-      "primary_event_date": "2020-03-10",
-      "review_flags": [],
-      "enrichment_status": "ENRICHED",
-      "primary_source_urls": [
-        "about:blank/clerk_recordings/202000069100"
       ]
     },
     {
@@ -290052,8 +290107,8 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "HURD NELLIE JEAN",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "estate of Decedent was not of",
+      "display_owner_type": "ESTATE",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -290272,8 +290327,8 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "LYLE JEANNE FRIOU",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "estate of Jeanne F. Lyle",
+      "display_owner_type": "ESTATE",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -290377,13 +290432,13 @@
       "lead_id": "lead_unresolved_202000067678",
       "scored_lead_id": "scored_726781b0252a9afa",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "6712 Patrol Way, Apt. 3208, Dallas, Texas 75241, TX",
+      "display_address_street": "6712 Patrol Way, Apt. 3208, Dallas, Texas 75241",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
-      "display_owner": "MATTHEWS DEBORAH JONES",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -290407,7 +290462,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -290422,8 +290477,11 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-09",
-      "review_flags": [],
-      "enrichment_status": "UNENRICHED",
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000067678"
       ]
@@ -290437,8 +290495,8 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "KAMINSKI SHARON KAY ROGERS",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -290462,7 +290520,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -290477,7 +290535,10 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-09",
-      "review_flags": [],
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000068007"
@@ -290487,10 +290548,10 @@
       "lead_id": "lead_unresolved_202000068283",
       "scored_lead_id": "scored_1c677f8d3dd0a34c",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "116 JUD Su yibrs CT, TX",
+      "display_address_street": "116 JUD Su yibrs CT",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
       "display_owner": "RAVEN SURROUND LLC",
       "display_owner_type": "ENTITY",
@@ -290541,7 +290602,7 @@
       "review_flags": [
         "lis_pendens_commercial"
       ],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000068283"
       ]
@@ -290550,13 +290611,13 @@
       "lead_id": "lead_unresolved_202000069211",
       "scored_lead_id": "scored_f89f040dc43e26bf",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "1957 and lives at 1201 Colonel Drive, TX",
+      "display_address_street": "1957 and lives at 1201 Colonel Drive",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
-      "display_owner": "NORRIS MARY ALICE",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -290580,7 +290641,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -290595,8 +290656,11 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-10",
-      "review_flags": [],
-      "enrichment_status": "UNENRICHED",
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000069211"
       ]
@@ -290660,10 +290724,10 @@
       "lead_id": "lead_unresolved_202000069497",
       "scored_lead_id": "scored_fa4440e165fcf4b8",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "4624 COUNTRY CREEK DR, TX",
+      "display_address_street": "4624 COUNTRY CREEK DR",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
       "display_owner": "COUNTY CREEK CONDOMINIUMS HOMEOWNERS ASSOCIATION",
       "display_owner_type": "INDIVIDUAL",
@@ -290706,7 +290770,7 @@
       "evidence_ids": [],
       "primary_event_date": "2020-03-11",
       "review_flags": [],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000069497"
       ]
@@ -290775,8 +290839,8 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "LARA FELICIANO",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -290800,7 +290864,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -290815,7 +290879,10 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-12",
-      "review_flags": [],
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000071939"
@@ -290830,8 +290897,8 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "MARTINEZ MARIA GUADALUPE",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -290855,7 +290922,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -290870,65 +290937,13 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-13",
-      "review_flags": [],
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000073523"
-      ]
-    },
-    {
-      "lead_id": "lead_unresolved_202000073601",
-      "scored_lead_id": "scored_02ae5e7a608198e9",
-      "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
-      "display_address_city": null,
-      "display_address_state": null,
-      "display_address_zip": null,
-      "display_owner": "ROSALES ELISEO",
-      "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "lien"
-      ],
-      "stack_contrib_patterns": [
-        "lien"
-      ],
-      "display_pattern_set": [
-        "lien"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_JUDGMENT_LIEN",
-          "delta": 30
-        }
-      ],
-      "evidence_ids": [],
-      "primary_event_date": "2020-03-13",
-      "review_flags": [],
-      "enrichment_status": "UNENRICHED",
-      "primary_source_urls": [
-        "about:blank/clerk_recordings/202000073601"
       ]
     },
     {
@@ -290940,8 +290955,8 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "WILLIAMS WILMER",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -290965,7 +290980,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -290980,7 +290995,10 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-16",
-      "review_flags": [],
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000074039"
@@ -290990,13 +291008,13 @@
       "lead_id": "lead_unresolved_202000074542",
       "scored_lead_id": "scored_514ea7e6d8230cf3",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "706 Roundtree Drive, Mesquite, Texas 75150, TX",
+      "display_address_street": "706 Roundtree Drive, Mesquite, Texas 75150",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
-      "display_owner": "RODRIGUEZ JOSE LUIS",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -291020,7 +291038,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -291035,8 +291053,11 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-16",
-      "review_flags": [],
-      "enrichment_status": "UNENRICHED",
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000074542"
       ]
@@ -291045,13 +291066,13 @@
       "lead_id": "lead_unresolved_202000075615",
       "scored_lead_id": "scored_89cc58bb0cf08b9c",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "10928 Live Oak Grove Drive, Baton Rouge, Louisiana, TX",
+      "display_address_street": "10928 Live Oak Grove Drive, Baton Rouge, Louisiana",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
-      "display_owner": "JACKSON FELTUS",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "Estate of Feltus Jackson",
+      "display_owner_type": "ESTATE",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -291091,7 +291112,7 @@
       "evidence_ids": [],
       "primary_event_date": "2020-03-17",
       "review_flags": [],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000075615"
       ]
@@ -291105,8 +291126,8 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "WILLIAMS RANDY",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -291130,7 +291151,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -291145,7 +291166,10 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-17",
-      "review_flags": [],
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000076053"
@@ -291155,13 +291179,13 @@
       "lead_id": "lead_unresolved_202000078585",
       "scored_lead_id": "scored_434f0d2a743c8646",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "10316 Vistadale Drive, TX",
+      "display_address_street": "10316 Vistadale Drive",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
-      "display_owner": "THORSON GLORIA MELBY",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -291185,7 +291209,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -291200,8 +291224,11 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-19",
-      "review_flags": [],
-      "enrichment_status": "UNENRICHED",
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000078585"
       ]
@@ -291215,8 +291242,8 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "MEASLES DANNA",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -291240,7 +291267,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -291255,7 +291282,10 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-19",
-      "review_flags": [],
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000078768"
@@ -291270,7 +291300,7 @@
       "display_address_city": null,
       "display_address_state": null,
       "display_address_zip": null,
-      "display_owner": "DIXON WILLIAM HENRY",
+      "display_owner": "PAGE 1",
       "display_owner_type": "INDIVIDUAL",
       "display_score": 55,
       "display_tier": "Workable",
@@ -291320,13 +291350,13 @@
       "lead_id": "lead_unresolved_202000081363",
       "scored_lead_id": "scored_7650ad81956be3d9",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "731 Dunbar St., Winter Park, FL 32789, TX",
+      "display_address_street": "731 Dunbar St., Winter Park, FL 32789",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
-      "display_owner": "EAST JUDITH",
-      "display_owner_type": "INDIVIDUAL",
+      "display_owner": "affidavit_of_heirship against unidentified party",
+      "display_owner_type": "UNKNOWN",
       "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
@@ -291350,7 +291380,7 @@
         }
       ],
       "display_title_complexity_tier": "Light curative",
-      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_lead_status": "REVIEW_REQUIRED",
       "display_assessed_value": null,
       "display_last_sale_price": null,
       "display_last_sale_date": null,
@@ -291365,8 +291395,11 @@
       ],
       "evidence_ids": [],
       "primary_event_date": "2020-03-23",
-      "review_flags": [],
-      "enrichment_status": "UNENRICHED",
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:document_body_debtor_not_extractable"
+      ],
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000081363"
       ]
@@ -291375,12 +291408,12 @@
       "lead_id": "lead_unresolved_202000083122",
       "scored_lead_id": "scored_e675f95de79c6922",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "2922 Woodthrush St., Grand Prairie, Texas 75052, TX",
+      "display_address_street": "2922 Woodthrush St., Grand Prairie, Texas 75052",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
-      "display_owner": "GARCIA JUAN ANTONIO",
+      "display_owner": "Frise",
       "display_owner_type": "INDIVIDUAL",
       "display_score": 55,
       "display_tier": "Workable",
@@ -291421,7 +291454,7 @@
       "evidence_ids": [],
       "primary_event_date": "2020-03-25",
       "review_flags": [],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/clerk_recordings/202000083122"
       ]
@@ -292333,10 +292366,10 @@
       "lead_id": "lead_unresolved_202600002185",
       "scored_lead_id": "scored_6fecf79a2cf83a53",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "2612 SOUTH BOULEVARD, DALLAS, TEXAS, 75215, TX",
+      "display_address_street": "2612 SOUTH BOULEVARD, DALLAS, TEXAS, 75215",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
@@ -292386,7 +292419,7 @@
         "parcel_resolution_review_required",
         "matched_lead_review_reason:document_body_debtor_not_extractable"
       ],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/foreclosure_notices/202600002185"
       ]
@@ -292454,10 +292487,10 @@
       "lead_id": "lead_unresolved_202600002204",
       "scored_lead_id": "scored_c7cccaf33028a300",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "1908 DRAKE STREET, GLENN HEIGHTS, TEXAS, 75154, TX",
+      "display_address_street": "1908 DRAKE STREET, GLENN HEIGHTS, TEXAS, 75154",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
@@ -292507,7 +292540,7 @@
         "parcel_resolution_review_required",
         "matched_lead_review_reason:document_body_debtor_not_extractable"
       ],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/foreclosure_notices/202600002204"
       ]
@@ -292516,10 +292549,10 @@
       "lead_id": "lead_unresolved_202600002205",
       "scored_lead_id": "scored_5db480702b53d116",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "6517 BRIAN MEADE DRIVE, DALLAS, TEXAS, 75254, TX",
+      "display_address_street": "6517 BRIAN MEADE DRIVE, DALLAS, TEXAS, 75254",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
@@ -292569,7 +292602,7 @@
         "parcel_resolution_review_required",
         "matched_lead_review_reason:document_body_debtor_not_extractable"
       ],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/foreclosure_notices/202600002205"
       ]
@@ -292578,10 +292611,10 @@
       "lead_id": "lead_unresolved_202600002207",
       "scored_lead_id": "scored_4b73c4465a0a3d8e",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "1307 PRAIRIE DRIVE, LANCASTER, TEXAS, 75146, TX",
+      "display_address_street": "1307 PRAIRIE DRIVE, LANCASTER, TEXAS, 75146",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
@@ -292631,7 +292664,7 @@
         "parcel_resolution_review_required",
         "matched_lead_review_reason:document_body_debtor_not_extractable"
       ],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/foreclosure_notices/202600002207"
       ]
@@ -293195,10 +293228,10 @@
       "lead_id": "lead_unresolved_202600002222",
       "scored_lead_id": "scored_734d193c67068427",
       "primary_parcel_id": null,
-      "display_address": "",
-      "display_address_street": null,
+      "display_address": "6410 LOVE DRIVE, 75039, IRVING, TEXAS, 75039, TX",
+      "display_address_street": "6410 LOVE DRIVE, 75039, IRVING, TEXAS, 75039",
       "display_address_city": null,
-      "display_address_state": null,
+      "display_address_state": "TX",
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
@@ -293248,7 +293281,7 @@
         "parcel_resolution_review_required",
         "matched_lead_review_reason:document_body_debtor_not_extractable"
       ],
-      "enrichment_status": "UNENRICHED",
+      "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "about:blank/foreclosure_notices/202600002222"
       ]
