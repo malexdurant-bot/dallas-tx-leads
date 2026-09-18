@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-17T16:38:03Z",
+  "generated_at": "2026-09-18T16:16:38Z",
   "build_label": "PARTIAL_BUILD",
   "mode": "full_rebuild",
   "county": "Dallas",
   "state": "TX",
   "semantic_verdict": "NEEDS_OPERATOR_REVIEW",
-  "lead_total": 6414,
+  "lead_total": 6415,
   "enrichment_breakdown": {
-    "ENRICHED": 5079,
+    "ENRICHED": 5080,
     "UNENRICHED": 1335
   },
   "pattern_counts": {
-    "code": 21,
+    "code": 22,
     "divorce": 5,
     "estate": 90,
     "foreclosure": 1067,
@@ -21,20 +21,20 @@
   },
   "attribute_counts": {},
   "stack_depth_distribution": {
-    "1": 5964,
+    "1": 5965,
     "2": 446,
     "3": 4
   },
   "score_tier_distribution": {
-    "Archive": 113,
+    "Archive": 127,
     "Hot": 4,
-    "Low": 156,
-    "Strong": 845,
-    "Workable": 5296
+    "Low": 147,
+    "Strong": 844,
+    "Workable": 5293
   },
   "deal_path_distribution": {
     "messy_title": 27,
-    "wholesale": 6414
+    "wholesale": 6415
   },
   "records": [
     {
@@ -9855,7 +9855,7 @@
     },
     {
       "lead_id": "lead_parcel_00000172870000000",
-      "scored_lead_id": "scored_71b5679e72ac4318",
+      "scored_lead_id": "scored_085db478dd316244",
       "primary_parcel_id": "00000172870000000",
       "display_address": "3900 WALDRON AVE, DALLAS, TX",
       "display_address_street": "3900 WALDRON AVE",
@@ -9864,7 +9864,7 @@
       "display_address_zip": null,
       "display_owner": "COOPER MARY ELLA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 72,
+      "display_score": 67,
       "display_tier": "Strong",
       "display_patterns": [
         "estate",
@@ -9912,10 +9912,6 @@
         {
           "factor": "stack_depth_2",
           "delta": 12
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -23927,7 +23923,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 24.5,
+      "display_years_tax_delinquent": 24.6,
       "display_match_confidence": 0,
       "stack_depth": 2,
       "score_reasons": [
@@ -27699,7 +27695,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 4.5,
+      "display_years_tax_delinquent": 4.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -29091,7 +29087,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 4.5,
+      "display_years_tax_delinquent": 4.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -45548,7 +45544,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 7.5,
+      "display_years_tax_delinquent": 7.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -88050,7 +88046,7 @@
     },
     {
       "lead_id": "lead_parcel_00000553159000000",
-      "scored_lead_id": "scored_2486eabe672b02ff",
+      "scored_lead_id": "scored_7d7299634e0f545b",
       "primary_parcel_id": "00000553159000000",
       "display_address": "641 ELLA AVE, DALLAS, TX",
       "display_address_street": "641 ELLA AVE",
@@ -88059,7 +88055,7 @@
       "display_address_zip": null,
       "display_owner": "SCOTT CAMERON",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -88099,10 +88095,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -96006,7 +95998,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 0.5,
+      "display_years_tax_delinquent": 0.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -148565,7 +148557,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 19.5,
+      "display_years_tax_delinquent": 19.6,
       "display_match_confidence": 0,
       "stack_depth": 2,
       "score_reasons": [
@@ -150698,7 +150690,7 @@
     },
     {
       "lead_id": "lead_parcel_003415000A0200000",
-      "scored_lead_id": "scored_3fc41e516e34fdb4",
+      "scored_lead_id": "scored_c7c268276161e2ed",
       "primary_parcel_id": "003415000A0200000",
       "display_address": "402 TRINITY RIVER CIR, DALLAS, TX",
       "display_address_street": "402 TRINITY RIVER CIR",
@@ -150707,7 +150699,7 @@
       "display_address_zip": null,
       "display_owner": "BIAGAS BRIDGET",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "tax"
@@ -150747,10 +150739,6 @@
         {
           "factor": "base_FEDERAL_TAX_LIEN",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -154552,7 +154540,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 7.5,
+      "display_years_tax_delinquent": 7.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -163648,7 +163636,7 @@
     },
     {
       "lead_id": "lead_parcel_14080500020180000",
-      "scored_lead_id": "scored_bab229b0d27bc326",
+      "scored_lead_id": "scored_4c6d19b6511fca37",
       "primary_parcel_id": "14080500020180000",
       "display_address": "1101 TERRACE TRL, CARROLLTON (DALLAS CO), TX",
       "display_address_street": "1101 TERRACE TRL",
@@ -163657,8 +163645,8 @@
       "display_address_zip": null,
       "display_owner": "MARISCOS 2000 ENTERPRISES LLC",
       "display_owner_type": "ENTITY",
-      "display_score": 50,
-      "display_tier": "Workable",
+      "display_score": 45,
+      "display_tier": "Low",
       "display_patterns": [
         "tax"
       ],
@@ -163697,10 +163685,6 @@
         {
           "factor": "base_STATE_TAX_LIEN",
           "delta": 45
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -169368,7 +169352,7 @@
     },
     {
       "lead_id": "lead_parcel_20017500060020000",
-      "scored_lead_id": "scored_8833a016f455a283",
+      "scored_lead_id": "scored_427e79c3adf3995d",
       "primary_parcel_id": "20017500060020000",
       "display_address": "205 WINDWOOD DR, DESOTO, TX",
       "display_address_street": "205 WINDWOOD DR",
@@ -169377,7 +169361,7 @@
       "display_address_zip": null,
       "display_owner": "RICHARDSON STEVEN BERNARD",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "estate"
@@ -169417,10 +169401,6 @@
         {
           "factor": "base_AFFIDAVIT_OF_HEIRSHIP",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -173265,7 +173245,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 4.5,
+      "display_years_tax_delinquent": 4.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -185036,7 +185016,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 7.5,
+      "display_years_tax_delinquent": 7.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -185280,7 +185260,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 0.5,
+      "display_years_tax_delinquent": 0.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -186699,7 +186679,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 0.5,
+      "display_years_tax_delinquent": 0.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -192141,7 +192121,7 @@
     },
     {
       "lead_id": "lead_parcel_28109500020090000",
-      "scored_lead_id": "scored_c976cf33e55f8a1e",
+      "scored_lead_id": "scored_0245b6518cdad866",
       "primary_parcel_id": "28109500020090000",
       "display_address": "1614 PRINCE CT, GRAND PRAIRIE (DALLAS CO), TX",
       "display_address_street": "1614 PRINCE CT",
@@ -192150,7 +192130,7 @@
       "display_address_zip": null,
       "display_owner": "STANFORD TRISHA RENEE",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "estate"
@@ -192190,10 +192170,6 @@
         {
           "factor": "base_AFFIDAVIT_OF_HEIRSHIP",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -205054,7 +205030,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 0.5,
+      "display_years_tax_delinquent": 0.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -207974,7 +207950,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 4.5,
+      "display_years_tax_delinquent": 4.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -211642,7 +211618,7 @@
     },
     {
       "lead_id": "lead_parcel_36078500000240000",
-      "scored_lead_id": "scored_bcfdfe78eeb7a9a9",
+      "scored_lead_id": "scored_6fddc02c6882dc4d",
       "primary_parcel_id": "36078500000240000",
       "display_address": "503 W 8TH ST, LANCASTER, TX",
       "display_address_street": "503 W 8TH ST",
@@ -211651,8 +211627,8 @@
       "display_address_zip": null,
       "display_owner": "Raul Hernadez",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -211691,10 +211667,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -230946,6 +230918,71 @@
       "primary_source_urls": [
         "https://taxsales.lgbs.com/api/property_sales/?uid=1011433748",
         "https://www.dallascounty.org/Assets/uploads/docs/tax/trw/trwfile.752447.zip"
+      ]
+    },
+    {
+      "lead_id": "lead_parcel_440234500S0570000",
+      "scored_lead_id": "scored_205638349fe50040",
+      "primary_parcel_id": "440234500S0570000",
+      "display_address": "8702 NAIRN ST, ROWLETT (DALLAS CO), TX",
+      "display_address_street": "8702 NAIRN ST",
+      "display_address_city": "ROWLETT (DALLAS CO)",
+      "display_address_state": "TX",
+      "display_address_zip": null,
+      "display_owner": "GORZELA WALTER J",
+      "display_owner_type": "INDIVIDUAL",
+      "display_score": 35,
+      "display_tier": "Low",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_doc_types": [
+        "municipal_lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_is_absentee_owner": false,
+      "display_is_out_of_state_owner": false,
+      "display_years_tax_delinquent": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_MUNICIPAL_LIEN",
+          "delta": 30
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2026-09-16",
+      "review_flags": [],
+      "enrichment_status": "ENRICHED",
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/doc/330761251"
       ]
     },
     {
@@ -266524,7 +266561,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 8.5,
+      "display_years_tax_delinquent": 8.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -290035,7 +290072,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 7.5,
+      "display_years_tax_delinquent": 7.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -291457,7 +291494,7 @@
     },
     {
       "lead_id": "lead_parcel_99180724142000000",
-      "scored_lead_id": "scored_6ced1c8367641a24",
+      "scored_lead_id": "scored_e695f12693772017",
       "primary_parcel_id": "99180724142000000",
       "display_address": "6445 CEDAR SPRINGS RD, DALLAS, TX",
       "display_address_street": "6445 CEDAR SPRINGS RD",
@@ -291466,8 +291503,8 @@
       "display_address_zip": null,
       "display_owner": "UNITED INTERIORS LLC",
       "display_owner_type": "ENTITY",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -291506,10 +291543,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -330881,7 +330914,7 @@
       "display_year_built": null,
       "display_is_absentee_owner": null,
       "display_is_out_of_state_owner": null,
-      "display_years_tax_delinquent": 8.5,
+      "display_years_tax_delinquent": 8.6,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -377970,7 +378003,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600177838",
-      "scored_lead_id": "scored_c35bc94607a9e0fc",
+      "scored_lead_id": "scored_345ca53fccf52ba0",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -377979,7 +378012,7 @@
       "display_address_zip": null,
       "display_owner": "appointment_of_substitute_trustee against unidentified party",
       "display_owner_type": "UNKNOWN",
-      "display_score": 5,
+      "display_score": 0,
       "display_tier": "Archive",
       "display_patterns": [
         "foreclosure"
@@ -378015,12 +378048,7 @@
       "display_years_tax_delinquent": null,
       "display_match_confidence": 0,
       "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
+      "score_reasons": [],
       "evidence_ids": [],
       "primary_event_date": "2026-08-18",
       "review_flags": [
@@ -378034,7 +378062,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600177904",
-      "scored_lead_id": "scored_3cf410b2194e0835",
+      "scored_lead_id": "scored_ac9bb4eb4e293221",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378043,7 +378071,7 @@
       "display_address_zip": null,
       "display_owner": "RODRIGUEZ JUAN DANIEL",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 40,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
         "lis_pendens"
@@ -378089,10 +378117,6 @@
         {
           "factor": "base_LIS_PENDENS",
           "delta": 35
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378107,7 +378131,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600177918",
-      "scored_lead_id": "scored_10e7092c3934cc34",
+      "scored_lead_id": "scored_bd80c4f45542dad2",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378116,8 +378140,8 @@
       "display_address_zip": null,
       "display_owner": "AGUSTINE SIMI",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "code"
       ],
@@ -378156,10 +378180,6 @@
         {
           "factor": "base_MUNICIPAL_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378172,7 +378192,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600177919",
-      "scored_lead_id": "scored_e22ade4279955516",
+      "scored_lead_id": "scored_fd99b51140539f56",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378181,7 +378201,7 @@
       "display_address_zip": null,
       "display_owner": "transfer_of_tax_lien against unidentified party",
       "display_owner_type": "UNKNOWN",
-      "display_score": 5,
+      "display_score": 0,
       "display_tier": "Archive",
       "display_patterns": [
         "tax"
@@ -378217,12 +378237,7 @@
       "display_years_tax_delinquent": null,
       "display_match_confidence": 0,
       "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
+      "score_reasons": [],
       "evidence_ids": [],
       "primary_event_date": "2026-08-18",
       "review_flags": [
@@ -378236,7 +378251,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600177924",
-      "scored_lead_id": "scored_3bbbcf492cdcaf63",
+      "scored_lead_id": "scored_a862729a3888435e",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378245,7 +378260,7 @@
       "display_address_zip": null,
       "display_owner": "PRIME UTILITY CONSTRUCTION LLC",
       "display_owner_type": "ENTITY",
-      "display_score": 40,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
         "lis_pendens"
@@ -378291,10 +378306,6 @@
         {
           "factor": "base_LIS_PENDENS",
           "delta": 35
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378309,7 +378320,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178056",
-      "scored_lead_id": "scored_189ae2c9d529afc1",
+      "scored_lead_id": "scored_220e3637e11be1c8",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378318,7 +378329,7 @@
       "display_address_zip": null,
       "display_owner": "GOODVIN GERALD JACK",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "estate"
@@ -378358,10 +378369,6 @@
         {
           "factor": "base_AFFIDAVIT_OF_HEIRSHIP",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378377,7 +378384,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178141",
-      "scored_lead_id": "scored_73c0476ad7d2f135",
+      "scored_lead_id": "scored_649fafe926358abe",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378386,7 +378393,7 @@
       "display_address_zip": null,
       "display_owner": "PROLOGIS MCDANIEL LLC",
       "display_owner_type": "ENTITY",
-      "display_score": 40,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
         "lis_pendens"
@@ -378432,10 +378439,6 @@
         {
           "factor": "base_LIS_PENDENS",
           "delta": 35
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378450,7 +378453,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178162",
-      "scored_lead_id": "scored_d903dda3d4d33496",
+      "scored_lead_id": "scored_71fb76c553587798",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378459,7 +378462,7 @@
       "display_address_zip": null,
       "display_owner": "LOPEZ JAVIER RUBIO",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "estate"
@@ -378499,10 +378502,6 @@
         {
           "factor": "base_AFFIDAVIT_OF_HEIRSHIP",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378518,7 +378517,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178253",
-      "scored_lead_id": "scored_257620288dc386b0",
+      "scored_lead_id": "scored_3f5ec3c8abb15049",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378527,8 +378526,8 @@
       "display_address_zip": null,
       "display_owner": "BOYCE EBONY",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 50,
-      "display_tier": "Workable",
+      "display_score": 45,
+      "display_tier": "Low",
       "display_patterns": [
         "tax"
       ],
@@ -378567,10 +378566,6 @@
         {
           "factor": "base_STATE_TAX_LIEN",
           "delta": 45
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378583,7 +378578,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178258",
-      "scored_lead_id": "scored_dad58672b769d19d",
+      "scored_lead_id": "scored_331213755b5dbe01",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378592,8 +378587,8 @@
       "display_address_zip": null,
       "display_owner": "GARCIA MARIA REYNA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 50,
-      "display_tier": "Workable",
+      "display_score": 45,
+      "display_tier": "Low",
       "display_patterns": [
         "tax"
       ],
@@ -378632,10 +378627,6 @@
         {
           "factor": "base_STATE_TAX_LIEN",
           "delta": 45
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378648,7 +378639,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178313",
-      "scored_lead_id": "scored_522a396c88f03af4",
+      "scored_lead_id": "scored_a44abb02a30165bf",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378657,7 +378648,7 @@
       "display_address_zip": null,
       "display_owner": "DEPAZ DANIEL",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -378697,10 +378688,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378713,7 +378700,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178314",
-      "scored_lead_id": "scored_454b9d6a247b68b8",
+      "scored_lead_id": "scored_0fded9e35f9d72ba",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378722,7 +378709,7 @@
       "display_address_zip": null,
       "display_owner": "WILLIAMS JOHN",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -378762,10 +378749,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378778,7 +378761,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178317",
-      "scored_lead_id": "scored_33bf8910d22f3041",
+      "scored_lead_id": "scored_49306d12dd216439",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378787,7 +378770,7 @@
       "display_address_zip": null,
       "display_owner": "HOLLAN IAN",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -378827,10 +378810,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378843,7 +378822,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178343",
-      "scored_lead_id": "scored_a9450d11462d21f0",
+      "scored_lead_id": "scored_2e9bc4d37e0ea27d",
       "primary_parcel_id": null,
       "display_address": "660 N. Dallas Parkway, Suite 350, TX",
       "display_address_street": "660 N. Dallas Parkway, Suite 350",
@@ -378852,8 +378831,8 @@
       "display_address_zip": null,
       "display_owner": "BREWER JUSTIN",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -378892,10 +378871,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378908,7 +378883,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178345",
-      "scored_lead_id": "scored_49a003e8e544fb30",
+      "scored_lead_id": "scored_3e8eaa3e20a4be01",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378917,8 +378892,8 @@
       "display_address_zip": null,
       "display_owner": "ARREOLA ALEJANDRO",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -378957,10 +378932,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -378973,7 +378944,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178346",
-      "scored_lead_id": "scored_8ab65ef2b2155cd1",
+      "scored_lead_id": "scored_bf3ba7ddb4d81531",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -378982,8 +378953,8 @@
       "display_address_zip": null,
       "display_owner": "MAYS VANESSA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379022,10 +378993,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379038,7 +379005,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178348",
-      "scored_lead_id": "scored_b3be2eed07a98369",
+      "scored_lead_id": "scored_2c57240b7e890788",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379047,8 +379014,8 @@
       "display_address_zip": null,
       "display_owner": "MCDONALD ELAINE",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379087,10 +379054,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379103,7 +379066,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178354",
-      "scored_lead_id": "scored_403fd44736095e5e",
+      "scored_lead_id": "scored_3e1eed802fd541a7",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379112,8 +379075,8 @@
       "display_address_zip": null,
       "display_owner": "ALAMO MANHATTAN PROPERTIES LLC",
       "display_owner_type": "ENTITY",
-      "display_score": 50,
-      "display_tier": "Workable",
+      "display_score": 45,
+      "display_tier": "Low",
       "display_patterns": [
         "tax"
       ],
@@ -379152,10 +379115,6 @@
         {
           "factor": "base_STATE_TAX_LIEN",
           "delta": 45
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379168,7 +379127,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178359",
-      "scored_lead_id": "scored_3ba45dda157ffbed",
+      "scored_lead_id": "scored_7cebc4536d72c3af",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379177,7 +379136,7 @@
       "display_address_zip": null,
       "display_owner": "COLONIAL OAKS AT FIREWHEEL PROPERTY DBA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 5,
+      "display_score": 0,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -379213,12 +379172,7 @@
       "display_years_tax_delinquent": null,
       "display_match_confidence": 0,
       "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
+      "score_reasons": [],
       "evidence_ids": [],
       "primary_event_date": "2026-08-18",
       "review_flags": [],
@@ -379229,7 +379183,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178505",
-      "scored_lead_id": "scored_4db17dbcda6bcea0",
+      "scored_lead_id": "scored_abebd95db2ef7d82",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379238,7 +379192,7 @@
       "display_address_zip": null,
       "display_owner": "JENKINS CAMERON D",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "tax"
@@ -379278,10 +379232,6 @@
         {
           "factor": "base_FEDERAL_TAX_LIEN",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379294,7 +379244,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178508",
-      "scored_lead_id": "scored_58fb6c2490ffa76f",
+      "scored_lead_id": "scored_c1448e70fee5b1a1",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379303,7 +379253,7 @@
       "display_address_zip": null,
       "display_owner": "PERRY REHABILITATION ASSOCIATES PA",
       "display_owner_type": "ENTITY",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "tax"
@@ -379343,10 +379293,6 @@
         {
           "factor": "base_FEDERAL_TAX_LIEN",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379359,7 +379305,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178511",
-      "scored_lead_id": "scored_b7b23ae300becd50",
+      "scored_lead_id": "scored_319fd061fbc52c4c",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379368,7 +379314,7 @@
       "display_address_zip": null,
       "display_owner": "GOMEZ JOEL L LOPEZ",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "tax"
@@ -379408,10 +379354,6 @@
         {
           "factor": "base_FEDERAL_TAX_LIEN",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379424,7 +379366,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178562",
-      "scored_lead_id": "scored_274146facdb79374",
+      "scored_lead_id": "scored_9d7165c9d2202de2",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379433,8 +379375,8 @@
       "display_address_zip": null,
       "display_owner": "RODRIGUEZ REYNALDO",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379473,10 +379415,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379489,7 +379427,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178563",
-      "scored_lead_id": "scored_b52af450e3782261",
+      "scored_lead_id": "scored_36a34e08bcdfb02b",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379498,8 +379436,8 @@
       "display_address_zip": null,
       "display_owner": "HANSEN BOB JR",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379538,10 +379476,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379554,7 +379488,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178568",
-      "scored_lead_id": "scored_1598ebfa842f846e",
+      "scored_lead_id": "scored_980596535ae2f5ae",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379563,8 +379497,8 @@
       "display_address_zip": null,
       "display_owner": "CUNNINGHAM TAYLORE N",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379603,10 +379537,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379619,7 +379549,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178569",
-      "scored_lead_id": "scored_6eb1c6284c5cf012",
+      "scored_lead_id": "scored_49168bed8351a46e",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379628,8 +379558,8 @@
       "display_address_zip": null,
       "display_owner": "ROBERTS A H",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379668,10 +379598,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379684,7 +379610,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178657",
-      "scored_lead_id": "scored_43da745341817181",
+      "scored_lead_id": "scored_989434b147ca871d",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379693,7 +379619,7 @@
       "display_address_zip": null,
       "display_owner": "trustees_deed_upon_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
@@ -379733,10 +379659,6 @@
         {
           "factor": "base_TRUSTEES_DEED_UPON_SALE",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379752,7 +379674,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178673",
-      "scored_lead_id": "scored_fa2cce2546c0e39d",
+      "scored_lead_id": "scored_880aae71f5a8dea4",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379761,8 +379683,8 @@
       "display_address_zip": null,
       "display_owner": "SIMPSON STEPHEN T",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379801,10 +379723,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379817,7 +379735,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178730",
-      "scored_lead_id": "scored_0a316c7ca8adde29",
+      "scored_lead_id": "scored_1e37471ab398f08c",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379826,8 +379744,8 @@
       "display_address_zip": null,
       "display_owner": "ADAMS DANIEL J",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "code"
       ],
@@ -379866,10 +379784,6 @@
         {
           "factor": "base_MUNICIPAL_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379882,7 +379796,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178799",
-      "scored_lead_id": "scored_4176970e564b4d1e",
+      "scored_lead_id": "scored_32c84d7127c437a7",
       "primary_parcel_id": null,
       "display_address": "2021 Lamar Boulevard, Arlington, TX 76006, TX",
       "display_address_street": "2021 Lamar Boulevard, Arlington, TX 76006",
@@ -379891,8 +379805,8 @@
       "display_address_zip": null,
       "display_owner": "901 N OAK LLC",
       "display_owner_type": "ENTITY",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379931,10 +379845,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -379947,7 +379857,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178802",
-      "scored_lead_id": "scored_fa7a68798271788b",
+      "scored_lead_id": "scored_02deb631ed41ba69",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -379956,8 +379866,8 @@
       "display_address_zip": null,
       "display_owner": "REESE KEVIN RENALDO",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -379996,10 +379906,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -380012,7 +379918,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600178857",
-      "scored_lead_id": "scored_bf6df7d05b488c92",
+      "scored_lead_id": "scored_4c9778815dac2672",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -380021,7 +379927,7 @@
       "display_address_zip": null,
       "display_owner": "ROCHAS MA PETRA SALAS",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "estate"
@@ -380061,10 +379967,6 @@
         {
           "factor": "base_AFFIDAVIT_OF_HEIRSHIP",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
