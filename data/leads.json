@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-11T15:23:12Z",
+  "generated_at": "2026-10-12T15:15:53Z",
   "build_label": "PARTIAL_BUILD",
   "mode": "full_rebuild",
   "county": "Dallas",
   "state": "TX",
   "semantic_verdict": "NEEDS_OPERATOR_REVIEW",
-  "lead_total": 4685,
+  "lead_total": 4690,
   "enrichment_breakdown": {
-    "ENRICHED": 3711,
-    "UNENRICHED": 974
+    "ENRICHED": 3712,
+    "UNENRICHED": 978
   },
   "pattern_counts": {
     "bankruptcy": 1,
     "code": 49,
     "divorce": 15,
-    "estate": 191,
+    "estate": 192,
     "foreclosure": 1360,
     "lien": 380,
-    "lis_pendens": 22,
-    "tax": 3090
+    "lis_pendens": 23,
+    "tax": 3093
   },
   "attribute_counts": {},
   "stack_depth_distribution": {
-    "1": 4266,
+    "1": 4271,
     "2": 415,
     "3": 4
   },
   "score_tier_distribution": {
-    "Archive": 356,
+    "Archive": 359,
     "Hot": 4,
-    "Low": 204,
-    "Strong": 774,
-    "Workable": 3347
+    "Low": 202,
+    "Strong": 760,
+    "Workable": 3365
   },
   "deal_path_distribution": {
-    "messy_title": 31,
-    "wholesale": 4685
+    "messy_title": 32,
+    "wholesale": 4690
   },
   "records": [
     {
@@ -18344,7 +18344,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000222430000000",
@@ -18414,7 +18414,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000222463000000",
@@ -18484,7 +18484,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000222601000000",
@@ -18554,7 +18554,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000223054000000",
@@ -18640,7 +18640,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000223069000000",
@@ -18719,7 +18719,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000223069000001",
@@ -18798,7 +18798,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000223399000000",
@@ -18868,7 +18868,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000223630000000",
@@ -18938,7 +18938,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000224539000000",
@@ -19017,7 +19017,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000224881000000",
@@ -19087,7 +19087,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000225070000000",
@@ -19166,7 +19166,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000225172000000",
@@ -19236,7 +19236,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000225241000000",
@@ -19315,7 +19315,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000225454000000",
@@ -19385,7 +19385,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000226231000000",
@@ -19455,7 +19455,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000226240000000",
@@ -19525,7 +19525,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000226876000000",
@@ -19604,7 +19604,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000230476000000",
@@ -19678,10 +19678,25 @@
         "about:blank/clerk_recordings/202600185134",
         "about:blank/clerk_recordings/202600185137"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "RELEASE OF LIEN",
+          "recorded_date": "9/3/2026",
+          "doc_number": "202600191007",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "DEED OF TRUST",
+          "recorded_date": "8/31/2026",
+          "doc_number": "202600185138",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 2,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000237700000000",
@@ -19751,7 +19766,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000239683000000",
@@ -19832,7 +19847,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000241747000000",
@@ -19902,7 +19917,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000243082000000",
@@ -19972,7 +19987,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000245454510000",
@@ -20042,7 +20057,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000248971000000",
@@ -20112,7 +20127,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000249037000000",
@@ -20182,7 +20197,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000249730000000",
@@ -20252,7 +20267,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000249910000000",
@@ -20322,7 +20337,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000250546000000",
@@ -20397,10 +20412,25 @@
       "primary_source_urls": [
         "about:blank/clerk_recordings/202600181241"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "WARRANTY DEED",
+          "recorded_date": "7/27/2026",
+          "doc_number": "202600158957",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "WARRANTY DEED",
+          "recorded_date": "9/16/2026",
+          "doc_number": "202600199645",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 2,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000250663000000",
@@ -20470,7 +20500,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000250831000000",
@@ -20546,10 +20576,32 @@
         "https://taxsales.lgbs.com/api/property_sales/?uid=1010527073",
         "https://www.dallascounty.org/Assets/uploads/docs/tax/trw/trwfile.754635.zip"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "WARRANTY DEED",
+          "recorded_date": "3/2/2026",
+          "doc_number": "202600043680",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "DEED OF TRUST",
+          "recorded_date": "3/2/2026",
+          "doc_number": "202600043681",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "DEED OF TRUST",
+          "recorded_date": "3/2/2026",
+          "doc_number": "202600043682",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 3,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000250888000000",
@@ -20689,7 +20741,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000252205000100",
@@ -20759,7 +20811,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000252205000300",
@@ -20829,7 +20881,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000252205000400",
@@ -20969,7 +21021,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000252229000200",
@@ -21179,7 +21231,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000253303000000",
@@ -21249,7 +21301,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000253306000000",
@@ -21319,7 +21371,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000253795000000",
@@ -21389,7 +21441,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000254206000000",
@@ -21459,7 +21511,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000254272000000",
@@ -21599,7 +21651,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000257290000000",
@@ -21669,7 +21721,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000257302000000",
@@ -21739,7 +21791,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000258508000000",
@@ -21809,7 +21861,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000259150000000",
@@ -21879,7 +21931,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000260731000000",
@@ -21953,7 +22005,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000261307000000",
@@ -22023,7 +22075,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000262078000000",
@@ -22093,7 +22145,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000262204000000",
@@ -22163,7 +22215,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000263560000000",
@@ -22236,7 +22288,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000264907000000",
@@ -22306,7 +22358,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000265654000000",
@@ -22385,7 +22437,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000265714000000",
@@ -22455,7 +22507,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000265751000000",
@@ -22534,7 +22586,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000265984000000",
@@ -22604,7 +22656,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000266728000000",
@@ -22674,7 +22726,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000266761000000",
@@ -22741,10 +22793,18 @@
       "primary_source_urls": [
         "https://www.dallascounty.org/Assets/uploads/docs/tax/trw/trwfile.754635.zip"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "WARRANTY DEED",
+          "recorded_date": "2/25/2026",
+          "doc_number": "202600039851",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 1,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000266806000000",
@@ -22826,7 +22886,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000266812000000",
@@ -22905,7 +22965,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000267160000000",
@@ -22975,7 +23035,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000268282000000",
@@ -23051,10 +23111,25 @@
         "https://taxsales.lgbs.com/api/property_sales/?uid=1010651798",
         "https://www.dallascounty.org/Assets/uploads/docs/tax/trw/trwfile.754635.zip"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "DEED OF TRUST",
+          "recorded_date": "9/15/2026",
+          "doc_number": "202600198696",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "WARRANTY DEED",
+          "recorded_date": "9/15/2026",
+          "doc_number": "202600198695",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 2,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000268342000000",
@@ -23124,7 +23199,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000269026000000",
@@ -23273,7 +23348,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000270223000000",
@@ -23343,7 +23418,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000270397000000",
@@ -23413,7 +23488,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000270916000000",
@@ -23483,7 +23558,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000272530000000",
@@ -23553,7 +23628,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000274078000000",
@@ -23623,7 +23698,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000274402000000",
@@ -23693,7 +23768,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000274954000000",
@@ -23758,7 +23833,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000275161000000",
@@ -23828,7 +23903,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000275710000000",
@@ -23902,7 +23977,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000275788000000",
@@ -23972,7 +24047,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000275929000000",
@@ -24039,10 +24114,25 @@
       "primary_source_urls": [
         "https://www.dallascounty.org/Assets/uploads/docs/tax/trw/trwfile.754635.zip"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "MORTGAGE",
+          "recorded_date": "2/24/2026",
+          "doc_number": "202600038857",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "WARRANTY DEED",
+          "recorded_date": "1/30/2026",
+          "doc_number": "202600019565",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 2,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000276142000000",
@@ -24121,7 +24211,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000276175000000",
@@ -24698,7 +24788,7 @@
     },
     {
       "lead_id": "lead_parcel_00000278296000000",
-      "scored_lead_id": "scored_40e8e16af0cc1e8f",
+      "scored_lead_id": "scored_c6acf3e80c20a592",
       "primary_parcel_id": "00000278296000000",
       "display_address": "1101 S BRIGHTON AVE, DALLAS, TX",
       "display_address_street": "1101 S BRIGHTON AVE",
@@ -24707,7 +24797,7 @@
       "display_address_zip": null,
       "display_owner": "CHAVEZ ANGEL",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -24752,10 +24842,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -65894,7 +65980,7 @@
     },
     {
       "lead_id": "lead_parcel_00000547522000000",
-      "scored_lead_id": "scored_bb70b8cfcdcc8042",
+      "scored_lead_id": "scored_90254ef41a834c01",
       "primary_parcel_id": "00000547522000000",
       "display_address": "7629 LAKE JUNE RD, DALLAS, TX",
       "display_address_street": "7629 LAKE JUNE RD",
@@ -65903,8 +65989,8 @@
       "display_address_zip": null,
       "display_owner": "VALDEZ JUAN ANGEL",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -65948,10 +66034,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -80701,7 +80783,7 @@
     },
     {
       "lead_id": "lead_parcel_00000643798000000",
-      "scored_lead_id": "scored_c569fce67f78bc66",
+      "scored_lead_id": "scored_81f789a73f1e3882",
       "primary_parcel_id": "00000643798000000",
       "display_address": "6318 TRACY RD, DALLAS, TX",
       "display_address_street": "6318 TRACY RD",
@@ -80710,8 +80792,8 @@
       "display_address_zip": null,
       "display_owner": "RHEMA TABERNACLE MINISTRIES",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -80755,10 +80837,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -93445,7 +93523,7 @@
     },
     {
       "lead_id": "lead_parcel_00000706078540000",
-      "scored_lead_id": "scored_d4cac968f7ec6228",
+      "scored_lead_id": "scored_6c10ee7c9fa1960f",
       "primary_parcel_id": "00000706078540000",
       "display_address": "11114 VALLEY DALE DR, DALLAS, TX",
       "display_address_street": "11114 VALLEY DALE DR",
@@ -93454,8 +93532,8 @@
       "display_address_zip": null,
       "display_owner": "COPPER REALTY LLC",
       "display_owner_type": "ENTITY",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -93499,10 +93577,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -119673,7 +119747,7 @@
     },
     {
       "lead_id": "lead_parcel_00848300020360000",
-      "scored_lead_id": "scored_7d8dd8acdb9e0442",
+      "scored_lead_id": "scored_8737da553d7c93fa",
       "primary_parcel_id": "00848300020360000",
       "display_address": "9609 BRIERWYCK DR, DALLAS, TX",
       "display_address_street": "9609 BRIERWYCK DR",
@@ -119682,7 +119756,7 @@
       "display_address_zip": null,
       "display_owner": "ANDREWS QUEENETRA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -119727,10 +119801,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -134112,7 +134182,7 @@
     },
     {
       "lead_id": "lead_parcel_20023500070020000",
-      "scored_lead_id": "scored_2e0abb5f21790922",
+      "scored_lead_id": "scored_92f808456f43ac73",
       "primary_parcel_id": "20023500070020000",
       "display_address": "1005 CEDAR RIDGE DR, DESOTO, TX",
       "display_address_street": "1005 CEDAR RIDGE DR",
@@ -134121,7 +134191,7 @@
       "display_address_zip": null,
       "display_owner": "WILLIAM B. BARREE AND LASHANDA M BARREE",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
@@ -134166,10 +134236,6 @@
         {
           "factor": "base_TRUSTEES_DEED_UPON_SALE",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -144787,7 +144853,7 @@
     },
     {
       "lead_id": "lead_parcel_26264210120100000",
-      "scored_lead_id": "scored_e77124c1db892bed",
+      "scored_lead_id": "scored_fb53edaa45a05a35",
       "primary_parcel_id": "26264210120100000",
       "display_address": "7109 PIN OAK CT, GARLAND (DALLAS CO), TX",
       "display_address_street": "7109 PIN OAK CT",
@@ -144796,8 +144862,8 @@
       "display_address_zip": null,
       "display_owner": "LY DIEU T",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -144841,10 +144907,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -149246,7 +149308,7 @@
     },
     {
       "lead_id": "lead_parcel_26660500030060000",
-      "scored_lead_id": "scored_a2065eefbe7c366e",
+      "scored_lead_id": "scored_4a1ac3be1a7254be",
       "primary_parcel_id": "26660500030060000",
       "display_address": "2053 WESTCHESTER DR, GARLAND (DALLAS CO), TX",
       "display_address_street": "2053 WESTCHESTER DR",
@@ -149255,8 +149317,8 @@
       "display_address_zip": null,
       "display_owner": "MANUEL CHAVEZ (a/k/a MANUEL CHAVEZ RUBIO)",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -149300,10 +149362,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -150536,7 +150594,7 @@
     },
     {
       "lead_id": "lead_parcel_274061400B0260000",
-      "scored_lead_id": "scored_c2509f7e26cea19b",
+      "scored_lead_id": "scored_079e9b91e209e58e",
       "primary_parcel_id": "274061400B0260000",
       "display_address": "303 WAVERLY DR, GLENN HEIGHTS (DALLAS CO), TX",
       "display_address_street": "303 WAVERLY DR",
@@ -150545,8 +150603,8 @@
       "display_address_zip": null,
       "display_owner": "WALKER TIFFANY LATOY &",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -150590,10 +150648,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -151034,7 +151088,7 @@
     },
     {
       "lead_id": "lead_parcel_28015500004270000",
-      "scored_lead_id": "scored_ba7c28056763a333",
+      "scored_lead_id": "scored_1699a6a6606befcd",
       "primary_parcel_id": "28015500004270000",
       "display_address": "316 NE 31ST ST, GRAND PRAIRIE (DALLAS CO), TX",
       "display_address_street": "316 NE 31ST ST",
@@ -151043,7 +151097,7 @@
       "display_address_zip": null,
       "display_owner": "DAVILA BRYAN",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -151088,10 +151142,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -172097,7 +172147,7 @@
     },
     {
       "lead_id": "lead_parcel_36068500030160000",
-      "scored_lead_id": "scored_ce159294981efd23",
+      "scored_lead_id": "scored_b43c1ef3bcb2f195",
       "primary_parcel_id": "36068500030160000",
       "display_address": "1330 WILLOWBROOK ST, LANCASTER, TX",
       "display_address_street": "1330 WILLOWBROOK ST",
@@ -172106,8 +172156,8 @@
       "display_address_zip": null,
       "display_owner": "PALACIOS MIGUEL RODRIGUEZ",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -172151,10 +172201,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -177362,7 +177408,7 @@
     },
     {
       "lead_id": "lead_parcel_38082500030080000",
-      "scored_lead_id": "scored_f5c1961b90dfea30",
+      "scored_lead_id": "scored_c54d394e8e8f2251",
       "primary_parcel_id": "38082500030080000",
       "display_address": "1009 GLENN CIR, MESQUITE (DALLAS CO), TX",
       "display_address_street": "1009 GLENN CIR",
@@ -177371,8 +177417,8 @@
       "display_address_zip": null,
       "display_owner": "STEVE GABR",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -177416,10 +177462,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -177576,7 +177618,7 @@
     },
     {
       "lead_id": "lead_parcel_380874600H0080000",
-      "scored_lead_id": "scored_d1d57e46bfa4c5c5",
+      "scored_lead_id": "scored_9547644b5ced9db6",
       "primary_parcel_id": "380874600H0080000",
       "display_address": "2304 BECARD DR, MESQUITE (DALLAS CO), TX",
       "display_address_street": "2304 BECARD DR",
@@ -177585,8 +177627,8 @@
       "display_address_zip": null,
       "display_owner": "HUNTER KEENE",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -177630,10 +177672,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -187067,7 +187105,7 @@
     },
     {
       "lead_id": "lead_parcel_440236300E0120000",
-      "scored_lead_id": "scored_561a587188dbfd8d",
+      "scored_lead_id": "scored_8e490ecd6f88dc44",
       "primary_parcel_id": "440236300E0120000",
       "display_address": "2406 MYSTIC TRL, ROWLETT (DALLAS CO), TX",
       "display_address_street": "2406 MYSTIC TRL",
@@ -187076,7 +187114,7 @@
       "display_address_zip": null,
       "display_owner": "YEARGAN CECIL E",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "tax"
@@ -187121,10 +187159,6 @@
         {
           "factor": "base_FEDERAL_TAX_LIEN",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -187709,6 +187743,80 @@
       "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/doc/330777055"
+      ],
+      "related_records": [],
+      "related_records_count": 0,
+      "has_related_records": false,
+      "related_records_checked": false
+    },
+    {
+      "lead_id": "lead_parcel_480036000H20R0000",
+      "scored_lead_id": "scored_1a9e194d925bde32",
+      "primary_parcel_id": "480036000H20R0000",
+      "display_address": "4209 LEE HUTSON DR, SACHSE, TX",
+      "display_address_street": "4209 LEE HUTSON DR",
+      "display_address_city": "SACHSE",
+      "display_address_state": "TX",
+      "display_address_zip": null,
+      "display_owner": "A&J WILLIAMS BBQ LLC",
+      "display_owner_type": "ENTITY",
+      "display_score": 50,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "tax"
+      ],
+      "stack_contrib_patterns": [
+        "tax"
+      ],
+      "display_pattern_set": [
+        "tax"
+      ],
+      "display_doc_types": [
+        "state_tax_lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_assessed_value": 413070.0,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_is_absentee_owner": true,
+      "display_is_out_of_state_owner": false,
+      "display_owner_mailing_address": "1010 MEANS FARM RD",
+      "display_owner_mailing_city": "GARLAND",
+      "display_owner_mailing_state": "TX",
+      "display_owner_mailing_zip": "750445262",
+      "display_owner_mailing": "1010 MEANS FARM RD, GARLAND, TX 75044-5262",
+      "display_years_tax_delinquent": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_STATE_TAX_LIEN",
+          "delta": 45
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2026-10-07",
+      "review_flags": [],
+      "enrichment_status": "ENRICHED",
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/doc/331379734"
       ],
       "related_records": [],
       "related_records_count": 0,
@@ -285061,7 +285169,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600002409",
-      "scored_lead_id": "scored_212e71f82c7c1e90",
+      "scored_lead_id": "scored_d86e71a39e4221ff",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -285070,8 +285178,8 @@
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -285115,10 +285223,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -285138,7 +285242,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600002410",
-      "scored_lead_id": "scored_4c79f1c15c1d23b1",
+      "scored_lead_id": "scored_23c4f7c13c1fd92d",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -285147,8 +285251,8 @@
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -285192,10 +285296,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -285215,7 +285315,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600002411",
-      "scored_lead_id": "scored_2de4869c2bcd74c6",
+      "scored_lead_id": "scored_0218493a5629b2fb",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -285224,8 +285324,8 @@
       "display_address_zip": null,
       "display_owner": "Stephonia Llewwllyn",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -285269,10 +285369,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -285289,7 +285385,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600002412",
-      "scored_lead_id": "scored_039e6c9b78c106bc",
+      "scored_lead_id": "scored_113fc59f5eceabb3",
       "primary_parcel_id": null,
       "display_address": "2415, 2435, &2445 W. NORTHWEST HIGHWAY, DALLAS, TEXAS, 75220, TX",
       "display_address_street": "2415, 2435, &2445 W. NORTHWEST HIGHWAY, DALLAS, TEXAS, 75220",
@@ -285298,8 +285394,8 @@
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -285343,10 +285439,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -285366,7 +285458,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600002413",
-      "scored_lead_id": "scored_2d5b5fedfc9770c1",
+      "scored_lead_id": "scored_5e5a100587c570fa",
       "primary_parcel_id": null,
       "display_address": "1445 MACARTHUR DRIVE, CARROLLTON, TEXAS, 75007, TX",
       "display_address_street": "1445 MACARTHUR DRIVE, CARROLLTON, TEXAS, 75007",
@@ -285375,8 +285467,8 @@
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -285420,10 +285512,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -285443,7 +285531,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600002417",
-      "scored_lead_id": "scored_45bb1c1d5415f90f",
+      "scored_lead_id": "scored_2fd15ff280a931b7",
       "primary_parcel_id": null,
       "display_address": "15375 ADDISON ROAD, ADDISON, TEXAS, TX",
       "display_address_street": "15375 ADDISON ROAD, ADDISON, TEXAS",
@@ -285452,8 +285540,8 @@
       "display_address_zip": null,
       "display_owner": "notice_of_substitute_trustee_sale against unidentified party",
       "display_owner_type": "UNKNOWN",
-      "display_score": 65,
-      "display_tier": "Strong",
+      "display_score": 60,
+      "display_tier": "Workable",
       "display_patterns": [
         "foreclosure"
       ],
@@ -285497,10 +285585,6 @@
         {
           "factor": "base_NOTICE_OF_SUBSTITUTE_TRUSTEE_SALE",
           "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -314936,7 +315020,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196158",
-      "scored_lead_id": "scored_943faa2dbf2fd43c",
+      "scored_lead_id": "scored_0e1cc06dbfa67941",
       "primary_parcel_id": null,
       "display_address": "1375 EUBANKS RD, TX",
       "display_address_street": "1375 EUBANKS RD",
@@ -314945,7 +315029,7 @@
       "display_address_zip": null,
       "display_owner": "FRAMING JAIME LLC",
       "display_owner_type": "ENTITY",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "tax"
@@ -314990,10 +315074,6 @@
         {
           "factor": "base_FEDERAL_TAX_LIEN",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315010,7 +315090,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196277",
-      "scored_lead_id": "scored_6a2f7bc6d8fda7cb",
+      "scored_lead_id": "scored_d2d3ddb418048776",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -315019,8 +315099,8 @@
       "display_address_zip": null,
       "display_owner": "RAYSON TOMMY EARL",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -315064,10 +315144,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315084,7 +315160,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196304",
-      "scored_lead_id": "scored_8e8fddacac701b1f",
+      "scored_lead_id": "scored_cf67928287510dc5",
       "primary_parcel_id": null,
       "display_address": "403 N GRAND AVE Waxahachie, TX 75165, TX",
       "display_address_street": "403 N GRAND AVE Waxahachie, TX 75165",
@@ -315093,7 +315169,7 @@
       "display_address_zip": null,
       "display_owner": "CERVANTES MARTA MENDEZ",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -315138,10 +315214,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315158,7 +315230,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196311",
-      "scored_lead_id": "scored_a7cf5f742d5f76fd",
+      "scored_lead_id": "scored_e5790cce25686b9d",
       "primary_parcel_id": null,
       "display_address": "4512 SAGECROFT RD Crowley, TX 76036-3790, TX",
       "display_address_street": "4512 SAGECROFT RD Crowley, TX 76036-3790",
@@ -315167,7 +315239,7 @@
       "display_address_zip": null,
       "display_owner": "SADIKI ROSA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -315212,10 +315284,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315232,7 +315300,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196331",
-      "scored_lead_id": "scored_9cfa3d151b13ed5a",
+      "scored_lead_id": "scored_de63f846dbf4ac88",
       "primary_parcel_id": null,
       "display_address": "3500 W. Wheatland Rd., Dallas TX, 75237, and which renders hospital, TX",
       "display_address_street": "3500 W. Wheatland Rd., Dallas TX, 75237, and which renders hospital",
@@ -315241,7 +315309,7 @@
       "display_address_zip": null,
       "display_owner": "WILLIS WESLEY",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -315286,10 +315354,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315306,7 +315370,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196351",
-      "scored_lead_id": "scored_ef9eb2b5773d27be",
+      "scored_lead_id": "scored_8244f3882ea9da2a",
       "primary_parcel_id": null,
       "display_address": "672 STARK ST Mount Pleasant,TX 75455-4939 EE aa a ee a tate ener natin, TX",
       "display_address_street": "672 STARK ST Mount Pleasant,TX 75455-4939 EE aa a ee a tate ener natin",
@@ -315315,7 +315379,7 @@
       "display_address_zip": null,
       "display_owner": "WOODSON BRENDA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -315360,10 +315424,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315380,7 +315440,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196729",
-      "scored_lead_id": "scored_c4606360a6d8d48f",
+      "scored_lead_id": "scored_3f39e87ecaf21547",
       "primary_parcel_id": null,
       "display_address": "9755 SCYENE RD APT 7115, DALLAS TX 75227-4999, TX",
       "display_address_street": "9755 SCYENE RD APT 7115, DALLAS TX 75227-4999",
@@ -315389,8 +315449,8 @@
       "display_address_zip": null,
       "display_owner": "BARNES DEBBIE LAVERN M AKA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 35,
-      "display_tier": "Low",
+      "display_score": 30,
+      "display_tier": "Archive",
       "display_patterns": [
         "lien"
       ],
@@ -315434,10 +315494,6 @@
         {
           "factor": "base_JUDGMENT_LIEN",
           "delta": 30
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315454,7 +315510,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196817",
-      "scored_lead_id": "scored_02914bb41e06123d",
+      "scored_lead_id": "scored_f0ab136263c777b1",
       "primary_parcel_id": null,
       "display_address": "1571 COUNTY ROAD 143 Kaufman, TX 75142-5670, TX",
       "display_address_street": "1571 COUNTY ROAD 143 Kaufman, TX 75142-5670",
@@ -315463,7 +315519,7 @@
       "display_address_zip": null,
       "display_owner": "MEADS LONNIE",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -315508,10 +315564,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315528,7 +315580,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196825",
-      "scored_lead_id": "scored_628be8c29ed8b547",
+      "scored_lead_id": "scored_5cc7805e2e9c9883",
       "primary_parcel_id": null,
       "display_address": "6111 ABRAMS DRIVE APT 1108 Dallas, TX 75231, TX",
       "display_address_street": "6111 ABRAMS DRIVE APT 1108 Dallas, TX 75231",
@@ -315537,7 +315589,7 @@
       "display_address_zip": null,
       "display_owner": "FOX EMMA",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -315582,10 +315634,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315602,7 +315650,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600196848",
-      "scored_lead_id": "scored_3bdcc9523d14498d",
+      "scored_lead_id": "scored_1115d68b773577f9",
       "primary_parcel_id": null,
       "display_address": "11659 STATE HWY 34 SOUTH Quinlan, TX 75474, TX",
       "display_address_street": "11659 STATE HWY 34 SOUTH Quinlan, TX 75474",
@@ -315611,7 +315659,7 @@
       "display_address_zip": null,
       "display_owner": "POLING JASON",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 30,
+      "display_score": 25,
       "display_tier": "Archive",
       "display_patterns": [
         "lien"
@@ -315656,10 +315704,6 @@
         {
           "factor": "base_HOSPITAL_LIEN",
           "delta": 25
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -315676,7 +315720,7 @@
     },
     {
       "lead_id": "lead_unresolved_202600197229",
-      "scored_lead_id": "scored_3435c3a64dcaf983",
+      "scored_lead_id": "scored_6066003b1d742f6a",
       "primary_parcel_id": null,
       "display_address": "",
       "display_address_street": null,
@@ -315685,7 +315729,7 @@
       "display_address_zip": null,
       "display_owner": "PUBLIC",
       "display_owner_type": "INDIVIDUAL",
-      "display_score": 40,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
         "lis_pendens"
@@ -315736,10 +315780,6 @@
         {
           "factor": "base_LIS_PENDENS",
           "delta": 35
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [],
@@ -329699,6 +329739,88 @@
       "related_records_checked": false
     },
     {
+      "lead_id": "lead_unresolved_202600216443",
+      "scored_lead_id": "scored_29d88ba8f5f6eea0",
+      "primary_parcel_id": null,
+      "display_address": "",
+      "display_address_street": null,
+      "display_address_city": null,
+      "display_address_state": null,
+      "display_address_zip": null,
+      "display_owner": "SANCHEZ SEVERIANO FUENTE",
+      "display_owner_type": "INDIVIDUAL",
+      "display_score": 40,
+      "display_tier": "Low",
+      "display_patterns": [
+        "lis_pendens"
+      ],
+      "stack_contrib_patterns": [
+        "lis_pendens"
+      ],
+      "display_pattern_set": [
+        "lis_pendens"
+      ],
+      "display_doc_types": [
+        "lis_pendens"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "messy_title",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "messy_title",
+          "confidence": "moderate",
+          "rationale": "Lis pendens filed — pending litigation clouds title; curative work required before closing."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_is_absentee_owner": null,
+      "display_is_out_of_state_owner": null,
+      "display_owner_mailing_address": null,
+      "display_owner_mailing_city": null,
+      "display_owner_mailing_state": null,
+      "display_owner_mailing_zip": null,
+      "display_owner_mailing": "",
+      "display_years_tax_delinquent": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LIS_PENDENS",
+          "delta": 35
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2026-10-07",
+      "review_flags": [
+        "lis_pendens_review"
+      ],
+      "enrichment_status": "UNENRICHED",
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/doc/331366595"
+      ],
+      "related_records": [],
+      "related_records_count": 0,
+      "has_related_records": false,
+      "related_records_checked": false
+    },
+    {
       "lead_id": "lead_unresolved_202600216528",
       "scored_lead_id": "scored_4027ea11c9c03152",
       "primary_parcel_id": null,
@@ -329843,6 +329965,83 @@
       "enrichment_status": "UNENRICHED",
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/doc/331373033"
+      ],
+      "related_records": [],
+      "related_records_count": 0,
+      "has_related_records": false,
+      "related_records_checked": false
+    },
+    {
+      "lead_id": "lead_unresolved_202600216557",
+      "scored_lead_id": "scored_4ca8d6580d5b4669",
+      "primary_parcel_id": null,
+      "display_address": "",
+      "display_address_street": null,
+      "display_address_city": null,
+      "display_address_state": null,
+      "display_address_zip": null,
+      "display_owner": "probate against unidentified party",
+      "display_owner_type": "UNKNOWN",
+      "display_score": 60,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_doc_types": [
+        "probate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_is_absentee_owner": null,
+      "display_is_out_of_state_owner": null,
+      "display_owner_mailing_address": null,
+      "display_owner_mailing_city": null,
+      "display_owner_mailing_state": null,
+      "display_owner_mailing_zip": null,
+      "display_owner_mailing": "",
+      "display_years_tax_delinquent": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2026-10-07",
+      "review_flags": [
+        "parcel_resolution_review_required",
+        "matched_lead_review_reason:known_filer_pattern match: court_role:PROBATE COURT"
+      ],
+      "enrichment_status": "UNENRICHED",
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/doc/331373035"
       ],
       "related_records": [],
       "related_records_count": 0,
@@ -330151,6 +330350,80 @@
       "related_records_checked": false
     },
     {
+      "lead_id": "lead_unresolved_202600216744",
+      "scored_lead_id": "scored_18a06c609938695f",
+      "primary_parcel_id": null,
+      "display_address": "",
+      "display_address_street": null,
+      "display_address_city": null,
+      "display_address_state": null,
+      "display_address_zip": null,
+      "display_owner": "DICKEYS BARBECUE PIT INC",
+      "display_owner_type": "ENTITY",
+      "display_score": 50,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "tax"
+      ],
+      "stack_contrib_patterns": [
+        "tax"
+      ],
+      "display_pattern_set": [
+        "tax"
+      ],
+      "display_doc_types": [
+        "state_tax_lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_is_absentee_owner": null,
+      "display_is_out_of_state_owner": null,
+      "display_owner_mailing_address": null,
+      "display_owner_mailing_city": null,
+      "display_owner_mailing_state": null,
+      "display_owner_mailing_zip": null,
+      "display_owner_mailing": "",
+      "display_years_tax_delinquent": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_STATE_TAX_LIEN",
+          "delta": 45
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2026-10-07",
+      "review_flags": [],
+      "enrichment_status": "UNENRICHED",
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/doc/331379687"
+      ],
+      "related_records": [],
+      "related_records_count": 0,
+      "has_related_records": false,
+      "related_records_checked": false
+    },
+    {
       "lead_id": "lead_unresolved_202600216766",
       "scored_lead_id": "scored_d09eb764e9fb6661",
       "primary_parcel_id": null,
@@ -330440,6 +330713,80 @@
       "enrichment_status": "ENRICHED",
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/doc/331379733"
+      ],
+      "related_records": [],
+      "related_records_count": 0,
+      "has_related_records": false,
+      "related_records_checked": false
+    },
+    {
+      "lead_id": "lead_unresolved_202600216788",
+      "scored_lead_id": "scored_02f255020b8c4c0a",
+      "primary_parcel_id": null,
+      "display_address": "",
+      "display_address_street": null,
+      "display_address_city": null,
+      "display_address_state": null,
+      "display_address_zip": null,
+      "display_owner": "WORLD WIDE STRATEGIES INC",
+      "display_owner_type": "ENTITY",
+      "display_score": 50,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "tax"
+      ],
+      "stack_contrib_patterns": [
+        "tax"
+      ],
+      "display_pattern_set": [
+        "tax"
+      ],
+      "display_doc_types": [
+        "state_tax_lien"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "APPROVED_FOR_DASHBOARD",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_is_absentee_owner": null,
+      "display_is_out_of_state_owner": null,
+      "display_owner_mailing_address": null,
+      "display_owner_mailing_city": null,
+      "display_owner_mailing_state": null,
+      "display_owner_mailing_zip": null,
+      "display_owner_mailing": "",
+      "display_years_tax_delinquent": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_STATE_TAX_LIEN",
+          "delta": 45
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [],
+      "primary_event_date": "2026-10-07",
+      "review_flags": [],
+      "enrichment_status": "UNENRICHED",
+      "primary_source_urls": [
+        "https://dallas.tx.publicsearch.us/doc/331379728"
       ],
       "related_records": [],
       "related_records_count": 0,
