@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:09:55Z",
+  "generated_at": "2026-11-25T14:13:55Z",
   "build_label": "PARTIAL_BUILD",
   "mode": "full_rebuild",
   "county": "Dallas",
@@ -15,7 +15,7 @@
     "code": 94,
     "divorce": 24,
     "estate": 341,
-    "foreclosure": 1778,
+    "foreclosure": 1779,
     "lien": 693,
     "lis_pendens": 41,
     "tax": 3187,
@@ -27,16 +27,16 @@
   },
   "stack_depth_distribution": {
     "1": 5191,
-    "2": 454,
-    "3": 17,
+    "2": 453,
+    "3": 18,
     "6": 1,
     "7": 1
   },
   "score_tier_distribution": {
     "Archive": 753,
-    "Hot": 18,
+    "Hot": 19,
     "Low": 303,
-    "Strong": 559,
+    "Strong": 558,
     "Workable": 4031
   },
   "deal_path_distribution": {
@@ -5000,7 +5000,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752102511",
       "display_owner_mailing": "1913 JB JACKSON JR BLVD, DALLAS, TX 75210-2511",
-      "display_years_tax_delinquent": 26.6,
+      "display_years_tax_delinquent": 26.7,
       "display_match_confidence": 0,
       "stack_depth": 2,
       "score_reasons": [
@@ -7920,7 +7920,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752176752",
       "display_owner_mailing": "214 OKLAUNION DR, DALLAS, TX 75217-6752",
-      "display_years_tax_delinquent": 3.6,
+      "display_years_tax_delinquent": 3.7,
       "display_match_confidence": 0,
       "stack_depth": 2,
       "score_reasons": [
@@ -12629,7 +12629,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752271969",
       "display_owner_mailing": "9860 SCYENE RD APT 1514, DALLAS, TX 75227-1969",
-      "display_years_tax_delinquent": 11.6,
+      "display_years_tax_delinquent": 11.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -17230,7 +17230,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752154764",
       "display_owner_mailing": "2734 MARDER ST, DALLAS, TX 75215-4764",
-      "display_years_tax_delinquent": 12.6,
+      "display_years_tax_delinquent": 12.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -25587,7 +25587,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752087242",
       "display_owner_mailing": "1206 BURLINGTON BLVD, DALLAS, TX 75208-7242",
-      "display_years_tax_delinquent": 3.6,
+      "display_years_tax_delinquent": 3.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -42555,7 +42555,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752065430",
       "display_owner_mailing": "5832 PALM LN, DALLAS, TX 75206-5430",
-      "display_years_tax_delinquent": 3.1,
+      "display_years_tax_delinquent": 3.2,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -54135,7 +54135,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752163310",
       "display_owner_mailing": "2304 DUGALD PL, DALLAS, TX 75216-3310",
-      "display_years_tax_delinquent": 8.6,
+      "display_years_tax_delinquent": 8.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -60684,7 +60684,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752166137",
       "display_owner_mailing": "915 GRINNELL ST, DALLAS, TX 75216-6137",
-      "display_years_tax_delinquent": 15.1,
+      "display_years_tax_delinquent": 15.2,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -74528,7 +74528,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752176250",
       "display_owner_mailing": "7406 GAYGLEN DR, DALLAS, TX 75217-6250",
-      "display_years_tax_delinquent": 14.6,
+      "display_years_tax_delinquent": 14.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -78980,7 +78980,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752411813",
       "display_owner_mailing": "5706 GLEN FOREST LN, DALLAS, TX 75241-1813",
-      "display_years_tax_delinquent": 3.6,
+      "display_years_tax_delinquent": 3.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -93497,7 +93497,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752120000",
       "display_owner_mailing": "1418 MCBROOM ST, DALLAS, TX 75212-0000",
-      "display_years_tax_delinquent": 3.6,
+      "display_years_tax_delinquent": 3.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -117558,7 +117558,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "751546703",
       "display_owner_mailing": "104 MORGAN DR, RED OAK, TX 75154-6703",
-      "display_years_tax_delinquent": 16.6,
+      "display_years_tax_delinquent": 16.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -117577,7 +117577,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000800527000000",
@@ -117647,7 +117647,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000800584000000",
@@ -117717,7 +117717,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000800731000100",
@@ -117787,7 +117787,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000800824140000",
@@ -117856,10 +117856,25 @@
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/doc/331588193"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "CORRECTION AFFIDAVIT",
+          "recorded_date": "9/14/2026",
+          "doc_number": "202600198196",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "RELEASE OF LIEN",
+          "recorded_date": "9/30/2026",
+          "doc_number": "202600210747",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 2,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000800825560000",
@@ -117929,7 +117944,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000800826130000",
@@ -118010,7 +118025,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801043000000",
@@ -118082,7 +118097,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801196000000",
@@ -118152,7 +118167,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801328000000",
@@ -118222,7 +118237,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801352000000",
@@ -118294,7 +118309,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801367000000",
@@ -118364,7 +118379,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801388000000",
@@ -118437,7 +118452,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801625000000",
@@ -118507,7 +118522,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801649000000",
@@ -118577,7 +118592,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801802000000",
@@ -118650,7 +118665,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801827700000",
@@ -118792,7 +118807,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801830900000",
@@ -118864,7 +118879,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801834080000",
@@ -118934,7 +118949,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801839170000",
@@ -119004,7 +119019,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801839700000",
@@ -119074,7 +119089,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000801854010000",
@@ -119146,7 +119161,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000802264000000",
@@ -119288,7 +119303,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000803002000000",
@@ -119360,7 +119375,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000803677000000",
@@ -119439,7 +119454,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000805030000000",
@@ -119511,7 +119526,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000805900000000",
@@ -119581,7 +119596,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000805990000000",
@@ -119653,7 +119668,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000806905000000",
@@ -119725,7 +119740,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000808592740000",
@@ -119795,7 +119810,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000808907120000",
@@ -119867,7 +119882,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000809905000000",
@@ -119939,7 +119954,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000811093800000",
@@ -120016,7 +120031,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000811097800000",
@@ -120086,7 +120101,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000811152850000",
@@ -120156,7 +120171,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000811300020000",
@@ -120226,7 +120241,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000811369000000",
@@ -120311,7 +120326,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000812371000000",
@@ -120381,7 +120396,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000813779100000",
@@ -120453,7 +120468,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000813949000000",
@@ -120595,7 +120610,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000813970000001",
@@ -120667,7 +120682,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000814279000000",
@@ -120739,7 +120754,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000814345000000",
@@ -120811,7 +120826,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000815185000000",
@@ -120893,7 +120908,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000816238000000",
@@ -120963,7 +120978,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000816241000000",
@@ -121035,7 +121050,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000816388000000",
@@ -121105,7 +121120,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000816613000000",
@@ -121175,7 +121190,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000816718000000",
@@ -121247,7 +121262,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000816721000000",
@@ -121319,7 +121334,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817135000000",
@@ -121391,7 +121406,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817144000000",
@@ -121463,7 +121478,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817375000000",
@@ -121543,7 +121558,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817408000000",
@@ -121624,7 +121639,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817441000000",
@@ -121694,7 +121709,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817474000000",
@@ -121764,7 +121779,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817516000000",
@@ -121834,7 +121849,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817658000000",
@@ -121904,7 +121919,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817735000000",
@@ -121974,7 +121989,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817819000000",
@@ -122053,7 +122068,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000817946000000",
@@ -122134,7 +122149,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000818059000000",
@@ -122204,7 +122219,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820126300000",
@@ -122280,7 +122295,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820132380000",
@@ -122349,10 +122364,25 @@
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/doc/330745467"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "RELEASE OF LIEN",
+          "recorded_date": "9/18/2026",
+          "doc_number": "202600202137",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "WARRANTY DEED",
+          "recorded_date": "10/8/2026",
+          "doc_number": "202600217166",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 2,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820137360000",
@@ -122422,7 +122452,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820142380000",
@@ -122498,7 +122528,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820146420000",
@@ -122565,10 +122595,18 @@
       "primary_source_urls": [
         "https://dallas.tx.publicsearch.us/doc/330963976"
       ],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "WARRANTY DEED",
+          "recorded_date": "10/26/2026",
+          "doc_number": "202600228441",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 1,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820306020000",
@@ -122638,7 +122676,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820448560000",
@@ -122717,7 +122755,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820499240000",
@@ -122789,7 +122827,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820509140000",
@@ -122859,7 +122897,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820605300000",
@@ -122924,10 +122962,25 @@
       "review_flags": [],
       "enrichment_status": "ENRICHED",
       "primary_source_urls": [],
-      "related_records": [],
-      "related_records_count": 0,
-      "has_related_records": false,
-      "related_records_checked": false
+      "related_records": [
+        {
+          "tier": 3,
+          "doc_type": "RELEASE OF LIEN",
+          "recorded_date": "9/2/2026",
+          "doc_number": "202600189323",
+          "detail_url": null
+        },
+        {
+          "tier": 3,
+          "doc_type": "DEED OF TRUST",
+          "recorded_date": "8/31/2026",
+          "doc_number": "202600185712",
+          "detail_url": null
+        }
+      ],
+      "related_records_count": 2,
+      "has_related_records": true,
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820780300000",
@@ -122997,7 +123050,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820785240000",
@@ -123067,7 +123120,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820785300000",
@@ -123146,7 +123199,7 @@
       "related_records": [],
       "related_records_count": 0,
       "has_related_records": false,
-      "related_records_checked": false
+      "related_records_checked": true
     },
     {
       "lead_id": "lead_parcel_00000820806100000",
@@ -124941,7 +124994,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752535526",
       "display_owner_mailing": "2207 S WOODY RD, DALLAS, TX 75253-5526",
-      "display_years_tax_delinquent": 9.6,
+      "display_years_tax_delinquent": 9.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -133753,7 +133806,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752535512",
       "display_owner_mailing": "14979 KLEBERG RD, DALLAS, TX 75253-5512",
-      "display_years_tax_delinquent": 3.6,
+      "display_years_tax_delinquent": 3.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -138330,7 +138383,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752547626",
       "display_owner_mailing": "UNKNOWN, DALLAS, TX 75254-7626",
-      "display_years_tax_delinquent": 34.6,
+      "display_years_tax_delinquent": 34.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -156987,7 +157040,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "751163536",
       "display_owner_mailing": "543 ORIOLE BLVD, DUNCANVILLE, TX 75116-3536",
-      "display_years_tax_delinquent": 3.6,
+      "display_years_tax_delinquent": 3.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -164417,7 +164470,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "750413225",
       "display_owner_mailing": "2418 HIGH HOLLOW DR, GARLAND, TX 75041-3225",
-      "display_years_tax_delinquent": 3.6,
+      "display_years_tax_delinquent": 3.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -182873,7 +182926,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "751410313",
       "display_owner_mailing": "PO BOX 313, HUTCHINS, TX 75141-0313",
-      "display_years_tax_delinquent": 7.6,
+      "display_years_tax_delinquent": 7.7,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
@@ -197027,7 +197080,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "751462106",
       "display_owner_mailing": "1210 OAKBLUFF DR, LANCASTER, TX 75146-2106",
-      "display_years_tax_delinquent": 3.1,
+      "display_years_tax_delinquent": 3.2,
       "display_match_confidence": 0,
       "stack_depth": 2,
       "score_reasons": [
@@ -209014,7 +209067,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "752547698",
       "display_owner_mailing": "5485 BELT LINE RD STE 220, DALLAS, TX 75254-7698",
-      "display_years_tax_delinquent": 24.6,
+      "display_years_tax_delinquent": 24.7,
       "display_match_confidence": 0,
       "stack_depth": 2,
       "score_reasons": [
@@ -233242,7 +233295,7 @@
     },
     {
       "lead_id": "lead_parcel_65085008710250000",
-      "scored_lead_id": "scored_ba0565bc3611a352",
+      "scored_lead_id": "scored_9dc1b0da5f826dff",
       "primary_parcel_id": "65085008710250000",
       "display_address": "804 BALLARD RD, SEAGOVILLE (DALLAS CO), TX",
       "display_address_street": "804 BALLARD RD",
@@ -233251,20 +233304,24 @@
       "display_address_zip": null,
       "display_owner": "AVANT DANNY THOMAS ESTATE OF &",
       "display_owner_type": "ESTATE",
-      "display_score": 67,
-      "display_tier": "Strong",
+      "display_score": 84,
+      "display_tier": "Hot",
       "display_patterns": [
+        "foreclosure",
         "tax",
         "tax"
       ],
       "stack_contrib_patterns": [
+        "foreclosure",
         "tax",
         "tax"
       ],
       "display_pattern_set": [
+        "foreclosure",
         "tax"
       ],
       "display_doc_types": [
+        "sheriff_sale",
         "tax_deed",
         "tax_foreclosure_notice"
       ],
@@ -233296,15 +233353,15 @@
       "display_owner_mailing": "148 WEDGEWOOD LOOP, MABANK, TX 75156-0000",
       "display_years_tax_delinquent": 39.8,
       "display_match_confidence": 0,
-      "stack_depth": 2,
+      "stack_depth": 3,
       "score_reasons": [
         {
-          "factor": "base_TAX_DEED",
-          "delta": 55
+          "factor": "base_SHERIFF_SALE",
+          "delta": 60
         },
         {
-          "factor": "stack_depth_2",
-          "delta": 12
+          "factor": "stack_depth_3",
+          "delta": 24
         }
       ],
       "evidence_ids": [],
@@ -238044,7 +238101,7 @@
       "display_owner_mailing_state": "TX",
       "display_owner_mailing_zip": "751595207",
       "display_owner_mailing": "241 BILINDSAY CV, SEAGOVILLE, TX 75159-5207",
-      "display_years_tax_delinquent": 3.1,
+      "display_years_tax_delinquent": 3.2,
       "display_match_confidence": 0,
       "stack_depth": 1,
       "score_reasons": [
